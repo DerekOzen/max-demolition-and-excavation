@@ -122,10 +122,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "draft",
     "createdAt": "2026-10-07T08:24:36.519Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-07T09:42:39.100Z",
+    "updatedAt": "2026-10-07T08:24:36.519Z",
     "updatedBy": "vipin"
   },
   {
@@ -154,10 +154,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-07T08:24:36.519Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-07T08:24:36.519Z",
+    "updatedAt": "2026-10-07T09:42:40.683Z",
     "updatedBy": "vipin"
   },
   {
@@ -202,10 +202,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-07T08:24:36.519Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-07T08:24:36.519Z",
+    "updatedAt": "2026-10-07T09:42:47.232Z",
     "updatedBy": "vipin"
   },
   {

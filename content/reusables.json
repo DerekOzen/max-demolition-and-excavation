@@ -20,5 +20,16 @@
     "createdBy": "vipin",
     "updatedAt": "2026-10-07T06:30:33.451Z",
     "updatedBy": "vipin"
+  },
+  {
+    "id": "rz-3",
+    "name": "CTA Footer Banner",
+    "kind": "html",
+    "html": "<section class=\"prefoot\" aria-labelledby=\"prefoot-title\" style=\"outline: rgba(220, 38, 38, 0.85) solid 2px; outline-offset: -2px;\">\n    <div class=\"prefoot__media\">\n      <img src=\"uploads/excavator-bucket-detail-rock-ground-sydney-site.webp\" width=\"1000\" height=\"639\" loading=\"lazy\" alt=\"\">\n    </div>\n    <div class=\"container\">\n      <div class=\"prefoot__grid\">\n        <div class=\"prefoot__text\">\n          <h2 class=\"prefoot__title\" id=\"prefoot-title\">Ready to knock it down?</h2>\n          <p class=\"prefoot__sub\">Demolition &amp; removal from <span class=\"promo-price\">$1,699<span class=\"promo-ast\">*</span></span></p>\n          <p class=\"prefoot__copy\">Planning a knockdown, removal or site-clearing project? Speak with Max Demolition and Excavation and get a personalised quote.</p>\n        </div>\n        <div class=\"prefoot__act\">\n          <a class=\"btn btn--primary\" href=\"#quote\" data-cta=\"prefooter-quote\">Get my free quote <i class=\"fa-solid fa-arrow-right\" aria-hidden=\"true\"></i></a>\n          <a class=\"btn btn--on-dark\" href=\"tel:0456220552\" data-cta=\"prefooter-call\"><i class=\"fa-solid fa-phone\" aria-hidden=\"true\"></i> Call 0456 220 552</a>\n        </div>\n      </div>\n      <p class=\"promo-terms prefoot__terms\">*Starting price applies to eligible demolition and removal projects only. Final pricing depends on structure size, materials, site access, location, waste disposal requirements, hazardous materials and any necessary approvals. A final quote will be provided following project assessment.</p>\n    </div>\n  </section>",
+    "css": "",
+    "createdAt": "2026-10-07T06:31:11.722Z",
+    "createdBy": "vipin",
+    "updatedAt": "2026-10-07T06:31:11.722Z",
+    "updatedBy": "vipin"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-10-07T06:17:48.047Z",
+    "status": "published",
+    "updatedAt": "2026-10-07T06:20:53.044Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-07T06:17:48.047Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": true
   }
 ]

@@ -9,5 +9,16 @@
     "createdBy": "vipin",
     "updatedAt": "2026-10-07T06:29:54.790Z",
     "updatedBy": "vipin"
+  },
+  {
+    "id": "rz-2",
+    "name": "CTA Banner",
+    "kind": "html",
+    "html": "<section class=\"promo\" id=\"demolition-offer\" aria-labelledby=\"promo-title\" style=\"outline: rgba(220, 38, 38, 0.85) solid 2px; outline-offset: -2px;\">\n    <div class=\"promo__media\">\n      <img src=\"uploads/case-excavator-tracked-machine-sydney-demolition-fleet.webp\" width=\"800\" height=\"825\" loading=\"lazy\" alt=\"Tracked CASE excavator from the Max Demolition and Excavation fleet ready for a demolition and removal job on a Sydney block\">\n    </div>\n    <div class=\"promo__slab\" aria-hidden=\"true\"></div>\n    <div class=\"container\">\n      <div class=\"promo__grid\">\n        <div class=\"promo__main reveal\">\n          <p class=\"promo-flag\"><i class=\"fa-solid fa-bolt\" aria-hidden=\"true\"></i> Special demolition offer</p>\n          <h2 class=\"promo__title\" id=\"promo-title\">Your demolition could cost <em>less than you think.</em></h2>\n          <p class=\"promo__pricing\">Demolition &amp; removal from <span class=\"promo-price\">$1,699<span class=\"promo-ast\">*</span></span></p>\n          <p class=\"promo__copy\">From smaller demolition and removal jobs to complete property knockdowns, Max Demolition and Excavation provides professional demolition solutions. Tell us what you need removed and we'll prepare a quote for your project.</p>\n          <div class=\"promo__act\">\n            <a class=\"btn btn--primary\" href=\"#hero-quote\" data-cta=\"promo-section-quote\">Get my free demolition quote <i class=\"fa-solid fa-arrow-right\" aria-hidden=\"true\"></i></a>\n            <a class=\"btn btn--on-dark\" href=\"tel:0456220552\" data-cta=\"promo-section-call\"><i class=\"fa-solid fa-phone\" aria-hidden=\"true\"></i> Speak to our team</a>\n          </div>\n          <p class=\"promo-terms\" id=\"promo-terms\">*Starting price applies to eligible demolition and removal projects only. Final pricing depends on structure size, materials, site access, location, waste disposal requirements, hazardous materials and any necessary approvals. A final quote will be provided following project assessment.</p>\n        </div>\n        <div class=\"promo__ticket reveal\">\n          <p class=\"promo__ticket-label\">Knockdown &amp; removal</p>\n          <p class=\"promo__ticket-from\">from</p>\n          <p class=\"promo__ticket-price\"><span class=\"promo-price\">$1,699<span class=\"promo-ast\">*</span></span></p>\n          <p class=\"promo__ticket-fine\">*Starting price applies to eligible demolition and removal projects only.</p>\n          <ul class=\"promo__trust\">\n            <li><i class=\"fa-solid fa-certificate\" aria-hidden=\"true\"></i> Licensed Demolition Team</li>\n            <li><i class=\"fa-solid fa-file-invoice-dollar\" aria-hidden=\"true\"></i> Fixed-Price Quotes</li>\n            <li><i class=\"fa-solid fa-broom\" aria-hidden=\"true\"></i> Professional Site Clearing</li>\n          </ul>\n        </div>\n      </div>\n    </div>\n  </section>",
+    "css": "",
+    "createdAt": "2026-10-07T06:30:33.451Z",
+    "createdBy": "vipin",
+    "updatedAt": "2026-10-07T06:30:33.451Z",
+    "updatedBy": "vipin"
   }
 ]

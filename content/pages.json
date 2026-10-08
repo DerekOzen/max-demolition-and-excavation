@@ -2346,7 +2346,7 @@
   {
     "id": "pg-139",
     "path": "/industries",
-    "type": "page",
+    "type": "industry",
     "title": "Who We Work With | Max Demolition and Excavation",
     "seoTitle": "Who We Work With | Max Demolition and Excavation",
     "seoDescription": "Site works for builders and developers, and demolition for homeowners. One contract across demolition, asbestos management, excavation and cartage.",
@@ -2356,13 +2356,13 @@
     "status": "draft",
     "createdAt": "2026-10-08T03:38:11.921Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-08T03:38:11.921Z",
+    "updatedAt": "2026-10-08T03:55:33.566Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-140",
     "path": "/industries/builders-and-developers",
-    "type": "page",
+    "type": "industry",
     "title": "Demolition Contractors for Builders Sydney | Max Demolition and Excavation",
     "seoTitle": "Demolition Contractors for Builders Sydney | Max Demolition and Excavation",
     "seoDescription": "Demolition, asbestos management, excavation and cartage on one contract for builders and developers across NSW. Licensed demolisher AD214737, one scope, one.",
@@ -2372,13 +2372,13 @@
     "status": "draft",
     "createdAt": "2026-10-08T03:38:11.921Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-08T03:38:11.921Z",
+    "updatedAt": "2026-10-08T03:55:33.566Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-141",
     "path": "/industries/homeowners",
-    "type": "page",
+    "type": "industry",
     "title": "Knockdown Rebuild Demolition Cost | Max Demolition and Excavation",
     "seoTitle": "Knockdown Rebuild Demolition Cost | Max Demolition and Excavation",
     "seoDescription": "Knocking down your own house. What changes the price, what each quote should include, and how a knockdown actually runs. Demolition licence AD214737.",
@@ -2388,7 +2388,7 @@
     "status": "draft",
     "createdAt": "2026-10-08T03:38:11.921Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-08T03:38:11.921Z",
+    "updatedAt": "2026-10-08T03:55:33.566Z",
     "updatedBy": "joshua"
   },
   {

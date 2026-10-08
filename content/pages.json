@@ -2144,5 +2144,21 @@
     "updatedAt": "2026-10-08T02:55:33.500Z",
     "updatedBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-135",
+    "path": "/max-services-excavation-rock-excavation",
+    "type": "page",
+    "title": "Rock Excavation Sydney | Max Demolition and Excavation",
+    "seoTitle": "Rock Excavation Sydney | Max Demolition and Excavation",
+    "seoDescription": "Rock excavation across NSW using hammers and rippers. Sandstone and shale, priced by the cubic metre at rates agreed before we start. Strong on the Northern Beaches.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-08T03:02:48.836Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-08T03:02:48.836Z",
+    "updatedBy": "joshua"
   }
 ]

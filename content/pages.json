@@ -2304,10 +2304,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-08T03:26:52.218Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-08T03:26:52.218Z",
+    "updatedAt": "2026-10-08T03:27:09.631Z",
     "updatedBy": "joshua"
   }
 ]

@@ -35,7 +35,8 @@
       "https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap",
       "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     ],
-    "updatedAt": "2026-10-07T08:24:33.487Z"
+    "updatedAt": "2026-10-08T23:02:31.966Z",
+    "deleted": true
   },
   {
     "id": "footer-2",
@@ -59,7 +60,7 @@
       "https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap",
       "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     ],
-    "updatedAt": "2026-10-08T02:59:12.834Z",
+    "updatedAt": "2026-10-08T23:02:31.966Z",
     "settings": {
       "sticky": false,
       "autoHide": false,
@@ -85,7 +86,8 @@
       ],
       "accent": "#0f766e",
       "maxWidth": 1200
-    }
+    },
+    "deleted": true
   },
   {
     "id": "footer-3",
@@ -126,7 +128,7 @@
       "https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap",
       "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     ],
-    "updatedAt": "2026-10-08T03:32:01.651Z",
+    "updatedAt": "2026-10-08T23:02:31.966Z",
     "settings": {
       "sticky": false,
       "autoHide": false,
@@ -152,7 +154,8 @@
       ],
       "accent": "#0f766e",
       "maxWidth": 1200
-    }
+    },
+    "deleted": true
   },
   {
     "id": "footer-4",
@@ -193,7 +196,8 @@
       "https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap",
       "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     ],
-    "updatedAt": "2026-10-08T04:25:27.351Z"
+    "updatedAt": "2026-10-08T23:02:31.966Z",
+    "deleted": true
   },
   {
     "id": "header-6",

@@ -6,7 +6,7 @@
       "props": {
         "label": "Promobar",
         "role": "section",
-        "html": "<a class=\"promobar\" href=\"#hero-quote\" data-cta=\"header-banner\" aria-label=\"Demolition and removal from $1,699, get your free quote\">\n  <span class=\"container\">\n    <span class=\"promobar__text\">\n      <span class=\"promobar__msg\">Demolition &amp; removal from <span class=\"promobar__plate\"><span class=\"promo-price\">$1,699<span class=\"promo-ast\">*</span></span></span><span class=\"promobar__tail\"> — get your free quote</span></span>\n      <span class=\"promobar__fine\">*Starting price applies to eligible demolition and removal projects only. Final price after site assessment.</span>\n    </span>\n    <span class=\"promobar__btn\">Get a quote <i class=\"fa-solid fa-arrow-right\" aria-hidden=\"true\"></i></span>\n  </span>\n</a>"
+        "html": "<a class=\"promobar\" href=\"#hero-quote\" data-cta=\"header-banner\" aria-label=\"Demolition and removal from $15,999, get your free quote\">\n  <span class=\"container\">\n    <span class=\"promobar__text\">\n      <span class=\"promobar__msg\">Demolition &amp; removal from <span class=\"promobar__plate\"><span class=\"promo-price\">$15,999<span class=\"promo-ast\">*</span></span></span><span class=\"promobar__tail\"> — get your free quote</span></span>\n      <span class=\"promobar__fine\">*Starting price applies to eligible demolition and removal projects only. Final price after site assessment.</span>\n    </span>\n    <span class=\"promobar__btn\">Get a quote <i class=\"fa-solid fa-arrow-right\" aria-hidden=\"true\"></i></span>\n  </span>\n</a>"
       }
     },
     {

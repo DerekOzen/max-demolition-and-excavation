@@ -2293,5 +2293,21 @@
     "updatedAt": "2026-10-08T03:24:18.140Z",
     "updatedBy": "joshua",
     "isHome": false
+  },
+  {
+    "id": "pg-136",
+    "path": "/home-v3-1",
+    "type": "page",
+    "title": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
+    "seoTitle": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
+    "seoDescription": "Max Demolition and Excavation handles demolition, asbestos, excavation, site clearing and spoil removal on one contract. Licensed demolisher AD214737, excavators and haulage across the project. Get a quote.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-10-08T03:26:52.218Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-08T03:26:52.218Z",
+    "updatedBy": "joshua"
   }
 ]

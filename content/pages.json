@@ -2272,7 +2272,7 @@
   },
   {
     "id": "pg-134",
-    "path": "/max-projects",
+    "path": "/projects",
     "type": "page",
     "title": "Demolition Projects Sydney | Max Demolition and Excavation",
     "seoTitle": "Demolition Projects Sydney | Max Demolition and Excavation",
@@ -2280,10 +2280,10 @@
     "layout": "mockup",
     "headerPartId": "header-6",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T03:09:14.120Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T03:09:14.120Z",
+    "updatedAt": "2026-10-09T03:10:04.995Z",
     "updatedBy": "joshua"
   }
 ]

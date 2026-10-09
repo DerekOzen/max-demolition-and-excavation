@@ -2268,5 +2268,21 @@
     "isHome": true,
     "featuredImage": "/uploads/site-clearing-levelled-block-ready-for-construction-sydney.webp",
     "featuredImageAlt": "We take the site down and hand it back ready to build"
+  },
+  {
+    "id": "pg-134",
+    "path": "/max-projects",
+    "type": "page",
+    "title": "Demolition Projects Sydney | Max Demolition and Excavation",
+    "seoTitle": "Demolition Projects Sydney | Max Demolition and Excavation",
+    "seoDescription": "Completed demolition projects across Sydney, including a double storey knockdown rebuild at Auburn and a multi-unit development site at Blacktown.",
+    "layout": "mockup",
+    "headerPartId": "header-6",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "createdAt": "2026-10-09T03:09:14.120Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-09T03:09:14.120Z",
+    "updatedBy": "joshua"
   }
 ]

@@ -2125,8 +2125,10 @@
     "status": "published",
     "createdAt": "2026-10-08T23:20:22.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-08T23:20:44.891Z",
-    "updatedBy": "joshua",
-    "isHome": true
+    "updatedAt": "2026-10-09T01:53:24.037Z",
+    "updatedBy": "sebastian",
+    "isHome": true,
+    "featuredImage": "/uploads/site-clearing-levelled-block-ready-for-construction-sydney.webp",
+    "featuredImageAlt": "We take the site down and hand it back ready to build"
   }
 ]

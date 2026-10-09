@@ -2297,10 +2297,10 @@
     "layout": "mockup",
     "headerPartId": "header-6",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:02:40.431Z",
+    "updatedAt": "2026-10-09T05:03:34.392Z",
     "updatedBy": "joshua"
   },
   {
@@ -2313,10 +2313,10 @@
     "layout": "mockup",
     "headerPartId": "header-6",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:02:40.431Z",
+    "updatedAt": "2026-10-09T05:03:34.392Z",
     "updatedBy": "joshua"
   },
   {
@@ -2329,10 +2329,10 @@
     "layout": "mockup",
     "headerPartId": "header-6",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:02:40.431Z",
+    "updatedAt": "2026-10-09T05:03:34.392Z",
     "updatedBy": "joshua"
   },
   {
@@ -2345,10 +2345,10 @@
     "layout": "mockup",
     "headerPartId": "header-6",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:02:40.431Z",
+    "updatedAt": "2026-10-09T05:03:34.392Z",
     "updatedBy": "joshua"
   },
   {
@@ -2361,10 +2361,10 @@
     "layout": "mockup",
     "headerPartId": "header-6",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:02:40.431Z",
+    "updatedAt": "2026-10-09T05:03:34.392Z",
     "updatedBy": "joshua"
   },
   {
@@ -2377,10 +2377,10 @@
     "layout": "mockup",
     "headerPartId": "header-6",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:02:40.431Z",
+    "updatedAt": "2026-10-09T05:03:34.392Z",
     "updatedBy": "joshua"
   }
 ]

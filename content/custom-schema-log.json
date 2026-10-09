@@ -1,0 +1,535 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mv0iniqd-b07q",
+      "at": "2026-10-09T05:19:52.981Z",
+      "count": 131,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-CCB5AF03"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-A43EB0FF"
+        },
+        {
+          "path": "/contact",
+          "newRecordId": "SCHEMA-9D8F991F"
+        },
+        {
+          "path": "/request-a-quote",
+          "newRecordId": "SCHEMA-FB677E21"
+        },
+        {
+          "path": "/projects",
+          "newRecordId": "SCHEMA-5CBD7715"
+        },
+        {
+          "path": "/resources",
+          "newRecordId": "SCHEMA-9F164F50"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-721F39FA"
+        },
+        {
+          "path": "/terms-and-conditions",
+          "newRecordId": "SCHEMA-6E7822B7"
+        },
+        {
+          "path": "/industries",
+          "newRecordId": "SCHEMA-D101AE8E"
+        },
+        {
+          "path": "/industries/builders-and-developers",
+          "newRecordId": "SCHEMA-F38AE036"
+        },
+        {
+          "path": "/industries/homeowners",
+          "newRecordId": "SCHEMA-C8A7314E"
+        },
+        {
+          "path": "/services",
+          "newRecordId": "SCHEMA-349537CD"
+        },
+        {
+          "path": "/services/demolition",
+          "newRecordId": "SCHEMA-7B7C8F77"
+        },
+        {
+          "path": "/services/demolition/residential-demolition",
+          "newRecordId": "SCHEMA-D0D449A5"
+        },
+        {
+          "path": "/services/demolition/multi-unit-apartment-demolition",
+          "newRecordId": "SCHEMA-EAD8FDF2"
+        },
+        {
+          "path": "/services/demolition/commercial-industrial-demolition",
+          "newRecordId": "SCHEMA-C21820C4"
+        },
+        {
+          "path": "/services/demolition/service-station-demolition",
+          "newRecordId": "SCHEMA-59B4CA78"
+        },
+        {
+          "path": "/services/demolition/partial-demolition",
+          "newRecordId": "SCHEMA-24427288"
+        },
+        {
+          "path": "/services/demolition/hand-demolition",
+          "newRecordId": "SCHEMA-8154E858"
+        },
+        {
+          "path": "/services/asbestos-services",
+          "newRecordId": "SCHEMA-BE2929AC"
+        },
+        {
+          "path": "/services/asbestos-services/asbestos-inspections-and-testing",
+          "newRecordId": "SCHEMA-5D020AF2"
+        },
+        {
+          "path": "/services/asbestos-services/bonded-asbestos-removal",
+          "newRecordId": "SCHEMA-169E6BD0"
+        },
+        {
+          "path": "/services/asbestos-services/friable-asbestos-removal",
+          "newRecordId": "SCHEMA-D6FFE61E"
+        },
+        {
+          "path": "/services/asbestos-services/asbestos-contaminated-soil-removal",
+          "newRecordId": "SCHEMA-E52B5738"
+        },
+        {
+          "path": "/services/asbestos-services/air-monitoring-and-clearance-certificates",
+          "newRecordId": "SCHEMA-81A31A06"
+        },
+        {
+          "path": "/services/asbestos-services/asbestos-disposal",
+          "newRecordId": "SCHEMA-53FA1C29"
+        },
+        {
+          "path": "/services/asbestos-services/emergency-asbestos-clean-up",
+          "newRecordId": "SCHEMA-4F7BCF70"
+        },
+        {
+          "path": "/services/site-clearing-land-remediation",
+          "newRecordId": "SCHEMA-488D498B"
+        },
+        {
+          "path": "/services/site-clearing-land-remediation/site-clearing",
+          "newRecordId": "SCHEMA-5E5DC7DA"
+        },
+        {
+          "path": "/services/site-clearing-land-remediation/land-remediation",
+          "newRecordId": "SCHEMA-B5E98EE2"
+        },
+        {
+          "path": "/services/site-clearing-land-remediation/fill-supply-and-land-repair",
+          "newRecordId": "SCHEMA-20E9E6DB"
+        },
+        {
+          "path": "/services/site-clearing-land-remediation/site-rehabilitation",
+          "newRecordId": "SCHEMA-F284B79F"
+        },
+        {
+          "path": "/services/excavation",
+          "newRecordId": "SCHEMA-8D92A4B0"
+        },
+        {
+          "path": "/services/excavation/basement-excavation",
+          "newRecordId": "SCHEMA-E32383CC"
+        },
+        {
+          "path": "/services/excavation/bulk-excavation",
+          "newRecordId": "SCHEMA-899DDC38"
+        },
+        {
+          "path": "/services/excavation/detailed-excavation",
+          "newRecordId": "SCHEMA-B3231CCB"
+        },
+        {
+          "path": "/services/excavation/rock-excavation",
+          "newRecordId": "SCHEMA-550F8354"
+        },
+        {
+          "path": "/services/excavation/pool-excavation",
+          "newRecordId": "SCHEMA-D3F34A0F"
+        },
+        {
+          "path": "/services/excavation/site-cut-and-levelling",
+          "newRecordId": "SCHEMA-A921868A"
+        },
+        {
+          "path": "/services/haulage-waste",
+          "newRecordId": "SCHEMA-554A9779"
+        },
+        {
+          "path": "/services/haulage-waste/spoil-removal-and-cartage",
+          "newRecordId": "SCHEMA-EB50759A"
+        },
+        {
+          "path": "/services/haulage-waste/material-delivery",
+          "newRecordId": "SCHEMA-FCA07AC3"
+        },
+        {
+          "path": "/services/haulage-waste/demolition-waste-removal-and-recycling",
+          "newRecordId": "SCHEMA-369CF5A9"
+        },
+        {
+          "path": "/locations",
+          "newRecordId": "SCHEMA-0AE3A2D2"
+        },
+        {
+          "path": "/locations/nsw",
+          "newRecordId": "SCHEMA-69A0599E"
+        },
+        {
+          "path": "/locations/nsw/demolition-auburn",
+          "newRecordId": "SCHEMA-FA84F1D8"
+        },
+        {
+          "path": "/locations/nsw/demolition-austral",
+          "newRecordId": "SCHEMA-8ADDC94C"
+        },
+        {
+          "path": "/locations/nsw/demolition-avoca-beach",
+          "newRecordId": "SCHEMA-CE6C4B02"
+        },
+        {
+          "path": "/locations/nsw/demolition-bankstown",
+          "newRecordId": "SCHEMA-9C747C8C"
+        },
+        {
+          "path": "/locations/nsw/demolition-baulkham-hills",
+          "newRecordId": "SCHEMA-ADE60D2B"
+        },
+        {
+          "path": "/locations/nsw/demolition-belmont",
+          "newRecordId": "SCHEMA-2DB09C63"
+        },
+        {
+          "path": "/locations/nsw/demolition-blacktown",
+          "newRecordId": "SCHEMA-59FCAF67"
+        },
+        {
+          "path": "/locations/nsw/demolition-box-hill",
+          "newRecordId": "SCHEMA-ADBB1693"
+        },
+        {
+          "path": "/locations/nsw/demolition-brookvale",
+          "newRecordId": "SCHEMA-72D28228"
+        },
+        {
+          "path": "/locations/nsw/demolition-burwood",
+          "newRecordId": "SCHEMA-FB75A7E2"
+        },
+        {
+          "path": "/locations/nsw/demolition-camden",
+          "newRecordId": "SCHEMA-E8B2E65E"
+        },
+        {
+          "path": "/locations/nsw/demolition-campbelltown",
+          "newRecordId": "SCHEMA-E4F605D4"
+        },
+        {
+          "path": "/locations/nsw/demolition-castle-hill",
+          "newRecordId": "SCHEMA-B1D43816"
+        },
+        {
+          "path": "/locations/nsw/demolition-central-coast",
+          "newRecordId": "SCHEMA-FFC063FA"
+        },
+        {
+          "path": "/locations/nsw/demolition-charlestown",
+          "newRecordId": "SCHEMA-94E2CE30"
+        },
+        {
+          "path": "/locations/nsw/demolition-chatswood",
+          "newRecordId": "SCHEMA-2055EBFF"
+        },
+        {
+          "path": "/locations/nsw/demolition-chester-hill",
+          "newRecordId": "SCHEMA-BC170148"
+        },
+        {
+          "path": "/locations/nsw/demolition-chipping-norton",
+          "newRecordId": "SCHEMA-DA76B85C"
+        },
+        {
+          "path": "/locations/nsw/demolition-corrimal",
+          "newRecordId": "SCHEMA-162B147B"
+        },
+        {
+          "path": "/locations/nsw/demolition-dapto",
+          "newRecordId": "SCHEMA-F1556434"
+        },
+        {
+          "path": "/locations/nsw/demolition-dee-why",
+          "newRecordId": "SCHEMA-62B6D3F4"
+        },
+        {
+          "path": "/locations/nsw/demolition-eastern-suburbs",
+          "newRecordId": "SCHEMA-06608969"
+        },
+        {
+          "path": "/locations/nsw/demolition-epping",
+          "newRecordId": "SCHEMA-16E1661C"
+        },
+        {
+          "path": "/locations/nsw/demolition-erina",
+          "newRecordId": "SCHEMA-0D77D46C"
+        },
+        {
+          "path": "/locations/nsw/demolition-fairfield",
+          "newRecordId": "SCHEMA-E7F2E24E"
+        },
+        {
+          "path": "/locations/nsw/demolition-figtree",
+          "newRecordId": "SCHEMA-5D18557F"
+        },
+        {
+          "path": "/locations/nsw/demolition-frenchs-forest",
+          "newRecordId": "SCHEMA-687F7955"
+        },
+        {
+          "path": "/locations/nsw/demolition-gladesville",
+          "newRecordId": "SCHEMA-ED1F3EBE"
+        },
+        {
+          "path": "/locations/nsw/demolition-gosford",
+          "newRecordId": "SCHEMA-0FDD73D3"
+        },
+        {
+          "path": "/locations/nsw/demolition-granville",
+          "newRecordId": "SCHEMA-F9E00CB8"
+        },
+        {
+          "path": "/locations/nsw/demolition-greenacre",
+          "newRecordId": "SCHEMA-49617ABF"
+        },
+        {
+          "path": "/locations/nsw/demolition-guildford",
+          "newRecordId": "SCHEMA-2E88105F"
+        },
+        {
+          "path": "/locations/nsw/demolition-hills-district",
+          "newRecordId": "SCHEMA-2506A450"
+        },
+        {
+          "path": "/locations/nsw/demolition-hornsby",
+          "newRecordId": "SCHEMA-A74CAF1A"
+        },
+        {
+          "path": "/locations/nsw/demolition-hurstville",
+          "newRecordId": "SCHEMA-82221C5C"
+        },
+        {
+          "path": "/locations/nsw/demolition-illawarra",
+          "newRecordId": "SCHEMA-D3B616FC"
+        },
+        {
+          "path": "/locations/nsw/demolition-inner-west-ryde",
+          "newRecordId": "SCHEMA-4C619DA3"
+        },
+        {
+          "path": "/locations/nsw/demolition-kellyville",
+          "newRecordId": "SCHEMA-53BDB432"
+        },
+        {
+          "path": "/locations/nsw/demolition-kiama",
+          "newRecordId": "SCHEMA-B2F8D06C"
+        },
+        {
+          "path": "/locations/nsw/demolition-killara",
+          "newRecordId": "SCHEMA-DC208303"
+        },
+        {
+          "path": "/locations/nsw/demolition-kogarah",
+          "newRecordId": "SCHEMA-6B9C014B"
+        },
+        {
+          "path": "/locations/nsw/demolition-leppington",
+          "newRecordId": "SCHEMA-AE89A435"
+        },
+        {
+          "path": "/locations/nsw/demolition-lidcombe",
+          "newRecordId": "SCHEMA-8781B6DF"
+        },
+        {
+          "path": "/locations/nsw/demolition-lindfield",
+          "newRecordId": "SCHEMA-2752D164"
+        },
+        {
+          "path": "/locations/nsw/demolition-liverpool",
+          "newRecordId": "SCHEMA-E9906879"
+        },
+        {
+          "path": "/locations/nsw/demolition-londonderry",
+          "newRecordId": "SCHEMA-99B80060"
+        },
+        {
+          "path": "/locations/nsw/demolition-maitland",
+          "newRecordId": "SCHEMA-3D07501A"
+        },
+        {
+          "path": "/locations/nsw/demolition-malabar",
+          "newRecordId": "SCHEMA-55B9BD9E"
+        },
+        {
+          "path": "/locations/nsw/demolition-manly",
+          "newRecordId": "SCHEMA-F703AFDA"
+        },
+        {
+          "path": "/locations/nsw/demolition-manly-vale",
+          "newRecordId": "SCHEMA-FD41A1BE"
+        },
+        {
+          "path": "/locations/nsw/demolition-maroubra",
+          "newRecordId": "SCHEMA-FB750B75"
+        },
+        {
+          "path": "/locations/nsw/demolition-merewether",
+          "newRecordId": "SCHEMA-F568BE84"
+        },
+        {
+          "path": "/locations/nsw/demolition-merrylands",
+          "newRecordId": "SCHEMA-9BED1603"
+        },
+        {
+          "path": "/locations/nsw/demolition-mona-vale",
+          "newRecordId": "SCHEMA-B5C7AD93"
+        },
+        {
+          "path": "/locations/nsw/demolition-narrabeen",
+          "newRecordId": "SCHEMA-C59E85C6"
+        },
+        {
+          "path": "/locations/nsw/demolition-newcastle",
+          "newRecordId": "SCHEMA-27F3BF38"
+        },
+        {
+          "path": "/locations/nsw/demolition-newcastle-and-lake-macquarie",
+          "newRecordId": "SCHEMA-0F905B4C"
+        },
+        {
+          "path": "/locations/nsw/demolition-northern-beaches",
+          "newRecordId": "SCHEMA-9D57673B"
+        },
+        {
+          "path": "/locations/nsw/demolition-north-shore",
+          "newRecordId": "SCHEMA-77845473"
+        },
+        {
+          "path": "/locations/nsw/demolition-oran-park",
+          "newRecordId": "SCHEMA-037AA1F5"
+        },
+        {
+          "path": "/locations/nsw/demolition-parramatta",
+          "newRecordId": "SCHEMA-4325A4B0"
+        },
+        {
+          "path": "/locations/nsw/demolition-penrith",
+          "newRecordId": "SCHEMA-877D7A9F"
+        },
+        {
+          "path": "/locations/nsw/demolition-penrith-hawkesbury",
+          "newRecordId": "SCHEMA-AD1B9C9F"
+        },
+        {
+          "path": "/locations/nsw/demolition-richmond",
+          "newRecordId": "SCHEMA-C477155E"
+        },
+        {
+          "path": "/locations/nsw/demolition-rockdale",
+          "newRecordId": "SCHEMA-0893067B"
+        },
+        {
+          "path": "/locations/nsw/demolition-rouse-hill",
+          "newRecordId": "SCHEMA-09404E94"
+        },
+        {
+          "path": "/locations/nsw/demolition-ryde",
+          "newRecordId": "SCHEMA-03A08675"
+        },
+        {
+          "path": "/locations/nsw/demolition-seven-hills",
+          "newRecordId": "SCHEMA-D85B01C0"
+        },
+        {
+          "path": "/locations/nsw/demolition-shellharbour",
+          "newRecordId": "SCHEMA-61D3173C"
+        },
+        {
+          "path": "/locations/nsw/demolition-south-west-sydney",
+          "newRecordId": "SCHEMA-501C3630"
+        },
+        {
+          "path": "/locations/nsw/demolition-st-helens-park",
+          "newRecordId": "SCHEMA-7AD3D97B"
+        },
+        {
+          "path": "/locations/nsw/demolition-st-marys",
+          "newRecordId": "SCHEMA-830ED5B4"
+        },
+        {
+          "path": "/locations/nsw/demolition-strathfield",
+          "newRecordId": "SCHEMA-DE815223"
+        },
+        {
+          "path": "/locations/nsw/demolition-sutherland-shire",
+          "newRecordId": "SCHEMA-52876CBC"
+        },
+        {
+          "path": "/locations/nsw/demolition-terrigal",
+          "newRecordId": "SCHEMA-88FFFE84"
+        },
+        {
+          "path": "/locations/nsw/demolition-the-entrance",
+          "newRecordId": "SCHEMA-07C683F6"
+        },
+        {
+          "path": "/locations/nsw/demolition-thirroul",
+          "newRecordId": "SCHEMA-69B9FE23"
+        },
+        {
+          "path": "/locations/nsw/demolition-toongabbie",
+          "newRecordId": "SCHEMA-98A598F8"
+        },
+        {
+          "path": "/locations/nsw/demolition-tuggerah",
+          "newRecordId": "SCHEMA-8AA68528"
+        },
+        {
+          "path": "/locations/nsw/demolition-umina-beach",
+          "newRecordId": "SCHEMA-24BA31C2"
+        },
+        {
+          "path": "/locations/nsw/demolition-warners-bay",
+          "newRecordId": "SCHEMA-B38AFC87"
+        },
+        {
+          "path": "/locations/nsw/demolition-wentworthville",
+          "newRecordId": "SCHEMA-50F43186"
+        },
+        {
+          "path": "/locations/nsw/demolition-western-sydney",
+          "newRecordId": "SCHEMA-3379E8B6"
+        },
+        {
+          "path": "/locations/nsw/demolition-wollongong",
+          "newRecordId": "SCHEMA-BF552952"
+        },
+        {
+          "path": "/locations/nsw/demolition-woy-woy",
+          "newRecordId": "SCHEMA-AFE4047E"
+        },
+        {
+          "path": "/locations/nsw/demolition-wyong",
+          "newRecordId": "SCHEMA-9E5A1A44"
+        }
+      ]
+    }
+  ]
+}

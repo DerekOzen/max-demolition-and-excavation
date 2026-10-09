@@ -1,3 +1,12 @@
 # Managed by Nifty — Bulk Delete & Replace.
 # Generated from content/redirects.json. Edit through the dashboard, not by hand.
 
+/about-us/  /about/  301
+/contact-us/  /contact/  301
+/demolition/  /services/demolition/  301
+/services/asbestos-removal/  /services/asbestos-services/  301
+/services/bulk-excavation/  /services/excavation/bulk-excavation/  301
+/services/site-remediation/  /services/site-clearing-land-remediation/land-remediation/  301
+/services/truck-hire/  /services/haulage-waste/spoil-removal-and-cartage/  301
+/services/shoring/  /services/excavation/basement-excavation/  301
+/category/blog/  /resources/  301

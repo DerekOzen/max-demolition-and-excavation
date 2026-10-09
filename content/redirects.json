@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "from": "/about-us",
+    "to": "/about",
+    "code": 301,
+    "at": "2026-10-09T00:23:14.392Z"
+  },
+  {
+    "from": "/contact-us",
+    "to": "/contact",
+    "code": 301,
+    "at": "2026-10-09T00:23:14.392Z"
+  },
+  {
+    "from": "/demolition",
+    "to": "/services/demolition",
+    "code": 301,
+    "at": "2026-10-09T00:23:14.392Z"
+  },
+  {
+    "from": "/services/asbestos-removal",
+    "to": "/services/asbestos-services",
+    "code": 301,
+    "at": "2026-10-09T00:23:14.392Z"
+  },
+  {
+    "from": "/services/bulk-excavation",
+    "to": "/services/excavation/bulk-excavation",
+    "code": 301,
+    "at": "2026-10-09T00:23:14.392Z"
+  },
+  {
+    "from": "/services/site-remediation",
+    "to": "/services/site-clearing-land-remediation/land-remediation",
+    "code": 301,
+    "at": "2026-10-09T00:23:14.392Z"
+  },
+  {
+    "from": "/services/truck-hire",
+    "to": "/services/haulage-waste/spoil-removal-and-cartage",
+    "code": 301,
+    "at": "2026-10-09T00:23:14.392Z"
+  },
+  {
+    "from": "/services/shoring",
+    "to": "/services/excavation/basement-excavation",
+    "code": 301,
+    "at": "2026-10-09T00:23:14.392Z"
+  },
+  {
+    "from": "/category/blog",
+    "to": "/resources",
+    "code": 301,
+    "at": "2026-10-09T00:23:14.392Z"
+  }
+]

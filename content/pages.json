@@ -2361,7 +2361,7 @@
   },
   {
     "id": "pg-139",
-    "path": "/max-services-excavation-bulk-excavation",
+    "path": "/services/excavation/bulk-excavation",
     "type": "page",
     "title": "Bulk Excavation Sydney | Max Demolition and Excavation",
     "seoTitle": "Bulk Excavation Sydney | Max Demolition and Excavation",
@@ -2372,8 +2372,9 @@
     "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:03:34.392Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-09T05:12:37.442Z",
+    "updatedBy": "joshua",
+    "category": "Services"
   },
   {
     "id": "pg-140",

@@ -130,11 +130,12 @@
     "layout": "mockup",
     "headerPartId": "header-6",
     "footerPartId": "footer-5",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T04:35:40.007Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-08T23:07:39.351Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-09T03:09:35.616Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-276",

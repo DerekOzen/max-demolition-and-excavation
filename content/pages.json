@@ -2343,7 +2343,7 @@
   },
   {
     "id": "pg-138",
-    "path": "/max-services-demolition",
+    "path": "/services/demolition",
     "type": "page",
     "title": "Demolition Services NSW | Max Demolition and Excavation",
     "seoTitle": "Demolition Services NSW | Max Demolition and Excavation",
@@ -2354,8 +2354,9 @@
     "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:03:34.392Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-09T05:11:45.520Z",
+    "updatedBy": "joshua",
+    "category": "Services"
   },
   {
     "id": "pg-139",

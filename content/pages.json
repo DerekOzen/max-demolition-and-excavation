@@ -2325,7 +2325,7 @@
   },
   {
     "id": "pg-137",
-    "path": "/max-services-asbestos-services-asbestos-contaminated-soil-removal",
+    "path": "/services/asbestos-services/asbestos-contaminated-soil-removal",
     "type": "page",
     "title": "Asbestos Contaminated Soil Removal Sydney | Max Demolition and Excavation",
     "seoTitle": "Asbestos Contaminated Soil Removal Sydney | Max Demolition and Excavation",
@@ -2336,8 +2336,9 @@
     "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:03:34.392Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-09T05:10:16.738Z",
+    "updatedBy": "joshua",
+    "category": "Services"
   },
   {
     "id": "pg-138",

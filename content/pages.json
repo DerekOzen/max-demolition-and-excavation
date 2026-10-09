@@ -78,13 +78,14 @@
     "layout": "mockup",
     "headerPartId": "header-6",
     "footerPartId": "footer-5",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T04:35:40.007Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T03:24:38.196Z",
+    "updatedAt": "2026-10-09T05:09:08.986Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/cleared-level-building-pad-excavator-sydney.webp",
-    "featuredImageAlt": "One contractor from the first strip out to the level your slab needs"
+    "featuredImageAlt": "One contractor from the first strip out to the level your slab needs",
+    "isHome": false
   },
   {
     "id": "pg-273",

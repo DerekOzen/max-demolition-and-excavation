@@ -2254,7 +2254,7 @@
   },
   {
     "id": "pg-133",
-    "path": "/",
+    "path": "/demolition-and-excavation-contractors-sydney-max-demolition-and-excavation",
     "type": "page",
     "title": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
     "seoTitle": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
@@ -2265,9 +2265,9 @@
     "status": "published",
     "createdAt": "2026-10-08T23:20:22.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T01:53:24.037Z",
-    "updatedBy": "sebastian",
-    "isHome": true,
+    "updatedAt": "2026-10-09T05:07:10.971Z",
+    "updatedBy": "joshua",
+    "isHome": false,
     "featuredImage": "/uploads/site-clearing-levelled-block-ready-for-construction-sydney.webp",
     "featuredImageAlt": "We take the site down and hand it back ready to build"
   },
@@ -2289,7 +2289,7 @@
   },
   {
     "id": "pg-135",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
     "seoTitle": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
@@ -2300,8 +2300,9 @@
     "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:03:34.392Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-09T05:07:10.971Z",
+    "updatedBy": "joshua",
+    "isHome": true
   },
   {
     "id": "pg-136",

@@ -2379,7 +2379,7 @@
   },
   {
     "id": "pg-140",
-    "path": "/max-services-site-clearing-land-remediation",
+    "path": "/services/site-clearing-land-remediation",
     "type": "page",
     "title": "Site Clearing Sydney | Max Demolition and Excavation",
     "seoTitle": "Site Clearing Sydney | Max Demolition and Excavation",
@@ -2390,7 +2390,8 @@
     "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:03:34.392Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-09T05:13:18.001Z",
+    "updatedBy": "joshua",
+    "category": "Services"
   }
 ]

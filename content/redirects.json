@@ -1,5 +1,47 @@
 [
   {
+    "from": "/services/site-clearing-land-remediation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-09T05:25:18.661Z"
+  },
+  {
+    "from": "/services/excavation/bulk-excavation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-09T05:25:18.661Z"
+  },
+  {
+    "from": "/services/demolition",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-09T05:25:18.661Z"
+  },
+  {
+    "from": "/services/asbestos-services/asbestos-contaminated-soil-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-09T05:25:18.661Z"
+  },
+  {
+    "from": "/projects",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-09T05:25:18.661Z"
+  },
+  {
+    "from": "/industries/builders-and-developers",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-09T05:25:18.661Z"
+  },
+  {
+    "from": "/demolition-and-excavation-contractors-sydney-max-demolition-and-excavation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-09T05:25:18.661Z"
+  },
+  {
     "from": "/about-us",
     "to": "/about",
     "code": 301,

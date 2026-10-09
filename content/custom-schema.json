@@ -46,7 +46,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:00.948Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-A43EB0FF",
@@ -91,7 +95,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:01.522Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-9D8F991F",
@@ -136,7 +144,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:02.086Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-FB677E21",
@@ -181,7 +193,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:02.654Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-5CBD7715",
@@ -226,7 +242,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:03.097Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-9F164F50",
@@ -271,7 +291,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:03.662Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-721F39FA",
@@ -316,7 +340,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:04.070Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-6E7822B7",
@@ -361,7 +389,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:04.705Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D101AE8E",
@@ -406,7 +438,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:05.255Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-F38AE036",
@@ -451,7 +487,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:06.057Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-C8A7314E",
@@ -496,7 +536,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:19.105Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-349537CD",
@@ -541,7 +585,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:19.586Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-7B7C8F77",
@@ -586,7 +634,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:20.050Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D0D449A5",
@@ -631,7 +683,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:22.293Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-EAD8FDF2",
@@ -676,7 +732,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:22.746Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-C21820C4",
@@ -721,7 +781,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:23.666Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-59B4CA78",
@@ -766,7 +830,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:24.265Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-24427288",
@@ -811,7 +879,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:25.362Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-8154E858",
@@ -856,7 +928,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:26.504Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-BE2929AC",
@@ -901,7 +977,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:26.985Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-5D020AF2",
@@ -946,7 +1026,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:27.503Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-169E6BD0",
@@ -991,7 +1075,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:28.058Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D6FFE61E",
@@ -1036,7 +1124,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:28.598Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-E52B5738",
@@ -1081,7 +1173,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:29.380Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-81A31A06",
@@ -1126,7 +1222,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:29.922Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-53FA1C29",
@@ -1171,7 +1271,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:30.448Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-4F7BCF70",
@@ -1216,7 +1320,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:31.390Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-488D498B",
@@ -1261,7 +1369,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:31.834Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-5E5DC7DA",
@@ -1306,7 +1418,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:32.547Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-B5E98EE2",
@@ -1351,7 +1467,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:36.475Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-20E9E6DB",
@@ -1396,7 +1516,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:37.178Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-F284B79F",
@@ -1441,7 +1565,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:37.812Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-8D92A4B0",
@@ -1486,7 +1614,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:38.604Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-E32383CC",
@@ -1531,7 +1663,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:39.544Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-899DDC38",
@@ -1576,7 +1712,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:40.026Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-B3231CCB",
@@ -1621,7 +1761,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:41.320Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-550F8354",
@@ -1666,7 +1810,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:41.917Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D3F34A0F",
@@ -1711,7 +1859,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:42.426Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-A921868A",
@@ -1756,7 +1908,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:43.259Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-554A9779",
@@ -1801,7 +1957,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:44.006Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-EB50759A",
@@ -1846,7 +2006,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:44.524Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-FCA07AC3",
@@ -1891,7 +2055,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:45.030Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-369CF5A9",
@@ -1936,7 +2104,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:46.048Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-0AE3A2D2",
@@ -1981,7 +2153,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:47.030Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-69A0599E",
@@ -2026,7 +2202,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:47.626Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-FA84F1D8",
@@ -2071,7 +2251,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:48.105Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-8ADDC94C",
@@ -2116,7 +2300,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:48.634Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-CE6C4B02",
@@ -2161,7 +2349,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:49.282Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-9C747C8C",
@@ -2206,7 +2398,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:49.846Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-ADE60D2B",
@@ -2251,7 +2447,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:50.318Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-2DB09C63",
@@ -2296,7 +2496,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:50.842Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-59FCAF67",
@@ -2341,7 +2545,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:51.527Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-ADBB1693",
@@ -2386,7 +2594,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:52.176Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-72D28228",
@@ -2431,7 +2643,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:52.859Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-FB75A7E2",
@@ -2476,7 +2692,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:54.164Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-E8B2E65E",
@@ -2521,7 +2741,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:54.711Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-E4F605D4",
@@ -2566,7 +2790,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:55.344Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-B1D43816",
@@ -2611,7 +2839,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:55.914Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-FFC063FA",
@@ -2656,7 +2888,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:56.405Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-94E2CE30",
@@ -2701,7 +2937,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:56.940Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-2055EBFF",
@@ -2746,7 +2986,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:57.453Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-BC170148",
@@ -2791,7 +3035,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:57.961Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-DA76B85C",
@@ -2836,7 +3084,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:59.028Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-162B147B",
@@ -2881,7 +3133,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:24:59.642Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-F1556434",
@@ -2926,7 +3182,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:00.250Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-62B6D3F4",
@@ -2971,7 +3231,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:00.913Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-06608969",
@@ -3016,7 +3280,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:01.471Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-16E1661C",
@@ -3061,7 +3329,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:02.873Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-0D77D46C",
@@ -3106,7 +3378,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:03.731Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-E7F2E24E",
@@ -3151,7 +3427,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:04.217Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-5D18557F",
@@ -3196,7 +3476,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:04.785Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-687F7955",
@@ -3241,7 +3525,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:05.192Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-ED1F3EBE",
@@ -3286,7 +3574,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:05.911Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-0FDD73D3",
@@ -3331,7 +3623,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:06.373Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-F9E00CB8",
@@ -3376,7 +3672,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:07.117Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-49617ABF",
@@ -3421,7 +3721,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:07.670Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-2E88105F",
@@ -3466,7 +3770,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:08.220Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-2506A450",
@@ -3511,7 +3819,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:31.397Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-A74CAF1A",
@@ -3556,7 +3868,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:32.029Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-82221C5C",
@@ -3601,7 +3917,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:32.624Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D3B616FC",
@@ -3646,7 +3966,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:33.072Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-4C619DA3",
@@ -3691,7 +4015,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:37.302Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-53BDB432",
@@ -3736,7 +4064,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:37.792Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-B2F8D06C",
@@ -3781,7 +4113,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:38.331Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-DC208303",
@@ -3826,7 +4162,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:38.993Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-6B9C014B",
@@ -3871,7 +4211,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:39.942Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-AE89A435",
@@ -3916,7 +4260,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:40.738Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-8781B6DF",
@@ -3961,7 +4309,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:41.580Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-2752D164",
@@ -4006,7 +4358,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:42.447Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-E9906879",
@@ -4051,7 +4407,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:42.926Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-99B80060",
@@ -4096,7 +4456,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:43.651Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-3D07501A",
@@ -4141,7 +4505,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:44.121Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-55B9BD9E",
@@ -4186,7 +4554,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:44.598Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-F703AFDA",
@@ -4231,7 +4603,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:45.455Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-FD41A1BE",
@@ -4276,7 +4652,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:46.335Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-FB750B75",
@@ -4321,7 +4701,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:47.201Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-F568BE84",
@@ -4366,7 +4750,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:47.674Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-9BED1603",
@@ -4411,7 +4799,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:48.105Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-B5C7AD93",
@@ -4456,7 +4848,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:49.023Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-C59E85C6",
@@ -4501,7 +4897,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:49.494Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-27F3BF38",
@@ -4546,7 +4946,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:50.508Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-0F905B4C",
@@ -4591,7 +4995,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:51.465Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-9D57673B",
@@ -4636,7 +5044,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:52.129Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-77845473",
@@ -4681,7 +5093,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:53.123Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-037AA1F5",
@@ -4726,7 +5142,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:53.854Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-4325A4B0",
@@ -4771,7 +5191,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:54.744Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-877D7A9F",
@@ -4816,7 +5240,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:55.301Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-AD1B9C9F",
@@ -4861,7 +5289,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:55.808Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-C477155E",
@@ -4906,7 +5338,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:56.273Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-0893067B",
@@ -4951,7 +5387,11 @@
         "issue_reason": "",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:56.773Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-09404E94",
@@ -4996,7 +5436,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:57.272Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-03A08675",
@@ -5041,7 +5485,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:58.044Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D85B01C0",
@@ -5086,7 +5534,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:58.538Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-61D3173C",
@@ -5131,7 +5583,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:59.057Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-501C3630",
@@ -5176,7 +5632,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:25:59.997Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-7AD3D97B",
@@ -5221,7 +5681,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:01.323Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-830ED5B4",
@@ -5266,7 +5730,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:02.074Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-DE815223",
@@ -5311,7 +5779,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:02.631Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-52876CBC",
@@ -5356,7 +5828,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:03.099Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-88FFFE84",
@@ -5401,7 +5877,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:03.684Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-07C683F6",
@@ -5446,7 +5926,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:04.120Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-69B9FE23",
@@ -5491,7 +5975,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:05.438Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-98A598F8",
@@ -5536,7 +6024,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:06.528Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-8AA68528",
@@ -5581,7 +6073,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:06.994Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-24BA31C2",
@@ -5626,7 +6122,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:07.701Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-B38AFC87",
@@ -5671,7 +6171,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:08.734Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-50F43186",
@@ -5716,7 +6220,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:09.276Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-3379E8B6",
@@ -5761,7 +6269,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:09.690Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-BF552952",
@@ -5806,7 +6318,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:10.626Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-AFE4047E",
@@ -5851,7 +6367,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:11.210Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-9E5A1A44",
@@ -5896,7 +6416,11 @@
         "issue_reason": "The page has no crawlable featured image: every image on it is an inline base64 data URI and no og:image is published, so primaryImageOfPage was omitted rather than invented. Re-upload the hero image as a file under /uploads/ and this row can carry an ImageObject.",
         "source_references": "niftyhub:client-6abe2a5aa6699d6bba0f8cf8;live-page:maxdemolitions.com.au 2026-10-09;gbp:maps.app.goo.gl/Zdqw8sWagicjMA84A;client-brief:services-and-locations",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-10-09T05:26:11.673Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     }
   ]
 }

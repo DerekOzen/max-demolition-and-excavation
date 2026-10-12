@@ -2281,10 +2281,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-12T07:49:28.084Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-12T07:49:28.084Z",
+    "updatedAt": "2026-10-12T07:49:56.951Z",
     "updatedBy": "joshua"
   }
 ]

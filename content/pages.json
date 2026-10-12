@@ -2162,10 +2162,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-12T08:14:26.145Z",
+    "updatedAt": "2026-10-12T08:15:03.535Z",
     "updatedBy": "joshua",
     "isHome": false
   },

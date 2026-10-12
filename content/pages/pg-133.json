@@ -1,15 +1,6 @@
 {
   "blocks": [
     {
-      "id": "b-1",
-      "type": "section",
-      "props": {
-        "label": "Promobar",
-        "role": "section",
-        "html": "<label class=\"promobar\" for=\"qqtoggle\" role=\"button\" tabindex=\"0\" data-cta=\"header-banner\" aria-label=\"Demolition and removal from $15,999, open the quick quote form\">\n  <span class=\"container\">\n    <span class=\"promobar__text\">\n      <span class=\"promobar__msg\">Demolition &amp; removal from <span class=\"promobar__plate\"><span class=\"promo-price\">$15,999<span class=\"promo-ast\">*</span></span></span><span class=\"promobar__tail\">. Get your free quote</span></span>\n      <span class=\"promobar__fine\">*Starting price applies to eligible demolition and removal projects only. Final price after site assessment.</span>\n    </span>\n    <span class=\"promobar__btn\">Get a quote <i class=\"fa-solid fa-arrow-right\" aria-hidden=\"true\"></i></span>\n  </span>\n</label>"
-      }
-    },
-    {
       "id": "b-2",
       "type": "section",
       "props": {

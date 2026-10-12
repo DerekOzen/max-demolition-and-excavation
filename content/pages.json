@@ -2313,11 +2313,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-12T07:49:28.084Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-12T07:49:56.951Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:42:16.244Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-142",

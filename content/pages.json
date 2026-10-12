@@ -2270,5 +2270,21 @@
     "updatedAt": "2026-10-12T07:47:05.389Z",
     "updatedBy": "joshua",
     "isHome": false
+  },
+  {
+    "id": "pg-141",
+    "path": "/max-about",
+    "type": "page",
+    "title": "About Max Demolition and Excavation | Licensed Demolisher AD214737",
+    "seoTitle": "About Max Demolition and Excavation | Licensed Demolisher AD214737",
+    "seoDescription": "Licensed demolisher working from Wollongong through Greater Sydney and the Central Coast to Newcastle. Our equipment, our licence and how demolition, asbestos.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-12T07:49:28.084Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-12T07:49:28.084Z",
+    "updatedBy": "joshua"
   }
 ]

@@ -2154,7 +2154,7 @@
   },
   {
     "id": "pg-135",
-    "path": "/",
+    "path": "/demolition-and-excavation-contractors-sydney-max-demolition-and-excavation",
     "type": "page",
     "title": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
     "seoTitle": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
@@ -2165,9 +2165,9 @@
     "status": "published",
     "createdAt": "2026-10-09T05:02:40.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-12T07:47:05.389Z",
+    "updatedAt": "2026-10-12T08:14:26.145Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-136",
@@ -2289,7 +2289,7 @@
   },
   {
     "id": "pg-142",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
     "seoTitle": "Demolition and Excavation Contractors Sydney | Max Demolition and Excavation",
@@ -2297,10 +2297,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-12T08:14:03.968Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-12T08:14:03.968Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:14:26.145Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]

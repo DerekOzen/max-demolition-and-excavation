@@ -636,11 +636,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-313",
@@ -652,11 +653,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-314",
@@ -668,13 +670,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Auburn"
+    "featuredImageAlt": "Demolition Auburn",
+    "isHome": false
   },
   {
     "id": "pg-315",
@@ -686,13 +689,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Austral"
+    "featuredImageAlt": "Demolition Austral",
+    "isHome": false
   },
   {
     "id": "pg-316",
@@ -704,13 +708,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Avoca Beach"
+    "featuredImageAlt": "Demolition Avoca Beach",
+    "isHome": false
   },
   {
     "id": "pg-317",
@@ -722,13 +727,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Bankstown"
+    "featuredImageAlt": "Demolition Bankstown",
+    "isHome": false
   },
   {
     "id": "pg-318",
@@ -740,13 +746,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Baulkham Hills"
+    "featuredImageAlt": "Demolition Baulkham Hills",
+    "isHome": false
   },
   {
     "id": "pg-319",
@@ -758,13 +765,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Belmont"
+    "featuredImageAlt": "Demolition Belmont",
+    "isHome": false
   },
   {
     "id": "pg-320",
@@ -776,13 +784,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Blacktown"
+    "featuredImageAlt": "Demolition Blacktown",
+    "isHome": false
   },
   {
     "id": "pg-321",
@@ -794,13 +803,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Box Hill"
+    "featuredImageAlt": "Demolition Box Hill",
+    "isHome": false
   },
   {
     "id": "pg-322",
@@ -812,13 +822,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Brookvale"
+    "featuredImageAlt": "Demolition Brookvale",
+    "isHome": false
   },
   {
     "id": "pg-323",
@@ -830,13 +841,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Burwood"
+    "featuredImageAlt": "Demolition Burwood",
+    "isHome": false
   },
   {
     "id": "pg-324",
@@ -848,13 +860,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Camden"
+    "featuredImageAlt": "Demolition Camden",
+    "isHome": false
   },
   {
     "id": "pg-325",
@@ -866,13 +879,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Campbelltown"
+    "featuredImageAlt": "Demolition Campbelltown",
+    "isHome": false
   },
   {
     "id": "pg-326",
@@ -884,13 +898,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Castle Hill"
+    "featuredImageAlt": "Demolition Castle Hill",
+    "isHome": false
   },
   {
     "id": "pg-327",
@@ -902,13 +917,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition on the Central Coast"
+    "featuredImageAlt": "Demolition on the Central Coast",
+    "isHome": false
   },
   {
     "id": "pg-328",
@@ -920,13 +936,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Charlestown"
+    "featuredImageAlt": "Demolition Charlestown",
+    "isHome": false
   },
   {
     "id": "pg-329",
@@ -938,13 +955,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Chatswood"
+    "featuredImageAlt": "Demolition Chatswood",
+    "isHome": false
   },
   {
     "id": "pg-330",
@@ -956,13 +974,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Chester Hill"
+    "featuredImageAlt": "Demolition Chester Hill",
+    "isHome": false
   },
   {
     "id": "pg-331",
@@ -974,13 +993,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:46:02.762Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Chipping Norton"
+    "featuredImageAlt": "Demolition Chipping Norton",
+    "isHome": false
   },
   {
     "id": "pg-332",
@@ -992,13 +1012,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Corrimal"
+    "featuredImageAlt": "Demolition Corrimal",
+    "isHome": false
   },
   {
     "id": "pg-333",
@@ -1010,13 +1031,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Dapto"
+    "featuredImageAlt": "Demolition Dapto",
+    "isHome": false
   },
   {
     "id": "pg-334",
@@ -1028,13 +1050,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Dee Why"
+    "featuredImageAlt": "Demolition Dee Why",
+    "isHome": false
   },
   {
     "id": "pg-335",
@@ -1046,13 +1069,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition in the Eastern Suburbs"
+    "featuredImageAlt": "Demolition in the Eastern Suburbs",
+    "isHome": false
   },
   {
     "id": "pg-336",
@@ -1064,13 +1088,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Epping"
+    "featuredImageAlt": "Demolition Epping",
+    "isHome": false
   },
   {
     "id": "pg-337",
@@ -1082,13 +1107,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Erina"
+    "featuredImageAlt": "Demolition Erina",
+    "isHome": false
   },
   {
     "id": "pg-338",
@@ -1100,13 +1126,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Fairfield"
+    "featuredImageAlt": "Demolition Fairfield",
+    "isHome": false
   },
   {
     "id": "pg-339",
@@ -1118,13 +1145,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Figtree"
+    "featuredImageAlt": "Demolition Figtree",
+    "isHome": false
   },
   {
     "id": "pg-340",
@@ -1136,13 +1164,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Frenchs Forest"
+    "featuredImageAlt": "Demolition Frenchs Forest",
+    "isHome": false
   },
   {
     "id": "pg-341",
@@ -1154,13 +1183,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Gladesville"
+    "featuredImageAlt": "Demolition Gladesville",
+    "isHome": false
   },
   {
     "id": "pg-342",
@@ -1172,13 +1202,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Gosford"
+    "featuredImageAlt": "Demolition Gosford",
+    "isHome": false
   },
   {
     "id": "pg-343",
@@ -1190,13 +1221,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Granville"
+    "featuredImageAlt": "Demolition Granville",
+    "isHome": false
   },
   {
     "id": "pg-344",
@@ -1208,13 +1240,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Greenacre"
+    "featuredImageAlt": "Demolition Greenacre",
+    "isHome": false
   },
   {
     "id": "pg-345",
@@ -1226,13 +1259,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Guildford"
+    "featuredImageAlt": "Demolition Guildford",
+    "isHome": false
   },
   {
     "id": "pg-346",
@@ -1244,13 +1278,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition in the Hills District"
+    "featuredImageAlt": "Demolition in the Hills District",
+    "isHome": false
   },
   {
     "id": "pg-347",
@@ -1262,13 +1297,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Hornsby"
+    "featuredImageAlt": "Demolition Hornsby",
+    "isHome": false
   },
   {
     "id": "pg-348",
@@ -1280,13 +1316,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Hurstville"
+    "featuredImageAlt": "Demolition Hurstville",
+    "isHome": false
   },
   {
     "id": "pg-349",
@@ -1298,13 +1335,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition across the Illawarra"
+    "featuredImageAlt": "Demolition across the Illawarra",
+    "isHome": false
   },
   {
     "id": "pg-350",
@@ -1316,13 +1354,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition in the Inner West and Ryde"
+    "featuredImageAlt": "Demolition in the Inner West and Ryde",
+    "isHome": false
   },
   {
     "id": "pg-351",
@@ -1334,13 +1373,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:47:46.982Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Kellyville"
+    "featuredImageAlt": "Demolition Kellyville",
+    "isHome": false
   },
   {
     "id": "pg-352",
@@ -1352,13 +1392,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Kiama"
+    "featuredImageAlt": "Demolition Kiama",
+    "isHome": false
   },
   {
     "id": "pg-353",
@@ -1370,13 +1411,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Killara"
+    "featuredImageAlt": "Demolition Killara",
+    "isHome": false
   },
   {
     "id": "pg-354",
@@ -1388,13 +1430,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Kogarah"
+    "featuredImageAlt": "Demolition Kogarah",
+    "isHome": false
   },
   {
     "id": "pg-355",
@@ -1406,13 +1449,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Leppington"
+    "featuredImageAlt": "Demolition Leppington",
+    "isHome": false
   },
   {
     "id": "pg-356",
@@ -1424,13 +1468,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Lidcombe"
+    "featuredImageAlt": "Demolition Lidcombe",
+    "isHome": false
   },
   {
     "id": "pg-357",
@@ -1442,13 +1487,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Lindfield"
+    "featuredImageAlt": "Demolition Lindfield",
+    "isHome": false
   },
   {
     "id": "pg-358",
@@ -1460,13 +1506,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Liverpool"
+    "featuredImageAlt": "Demolition Liverpool",
+    "isHome": false
   },
   {
     "id": "pg-359",
@@ -1478,13 +1525,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Londonderry"
+    "featuredImageAlt": "Demolition Londonderry",
+    "isHome": false
   },
   {
     "id": "pg-360",
@@ -1496,13 +1544,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Maitland"
+    "featuredImageAlt": "Demolition Maitland",
+    "isHome": false
   },
   {
     "id": "pg-361",
@@ -1514,13 +1563,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Malabar"
+    "featuredImageAlt": "Demolition Malabar",
+    "isHome": false
   },
   {
     "id": "pg-362",
@@ -1532,13 +1582,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Manly"
+    "featuredImageAlt": "Demolition Manly",
+    "isHome": false
   },
   {
     "id": "pg-363",
@@ -1550,13 +1601,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Manly Vale"
+    "featuredImageAlt": "Demolition Manly Vale",
+    "isHome": false
   },
   {
     "id": "pg-364",
@@ -1568,13 +1620,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Maroubra"
+    "featuredImageAlt": "Demolition Maroubra",
+    "isHome": false
   },
   {
     "id": "pg-365",
@@ -1586,13 +1639,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Merewether"
+    "featuredImageAlt": "Demolition Merewether",
+    "isHome": false
   },
   {
     "id": "pg-366",
@@ -1604,13 +1658,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Merrylands"
+    "featuredImageAlt": "Demolition Merrylands",
+    "isHome": false
   },
   {
     "id": "pg-367",
@@ -1622,13 +1677,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Mona Vale"
+    "featuredImageAlt": "Demolition Mona Vale",
+    "isHome": false
   },
   {
     "id": "pg-368",
@@ -1640,13 +1696,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Narrabeen"
+    "featuredImageAlt": "Demolition Narrabeen",
+    "isHome": false
   },
   {
     "id": "pg-369",
@@ -1658,13 +1715,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Newcastle"
+    "featuredImageAlt": "Demolition Newcastle",
+    "isHome": false
   },
   {
     "id": "pg-370",
@@ -1676,13 +1734,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition in Newcastle and Lake Macquarie"
+    "featuredImageAlt": "Demolition in Newcastle and Lake Macquarie",
+    "isHome": false
   },
   {
     "id": "pg-371",
@@ -1694,13 +1753,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T05:49:33.886Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/rock-excavation-sandstone-shale-northern-beaches.webp",
-    "featuredImageAlt": "Demolition on the Northern Beaches"
+    "featuredImageAlt": "Demolition on the Northern Beaches",
+    "isHome": false
   },
   {
     "id": "pg-372",
@@ -1712,13 +1772,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition across the North Shore"
+    "featuredImageAlt": "Demolition across the North Shore",
+    "isHome": false
   },
   {
     "id": "pg-373",
@@ -1730,13 +1791,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Oran Park"
+    "featuredImageAlt": "Demolition Oran Park",
+    "isHome": false
   },
   {
     "id": "pg-374",
@@ -1748,13 +1810,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Parramatta"
+    "featuredImageAlt": "Demolition Parramatta",
+    "isHome": false
   },
   {
     "id": "pg-375",
@@ -1766,13 +1829,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Penrith"
+    "featuredImageAlt": "Demolition Penrith",
+    "isHome": false
   },
   {
     "id": "pg-376",
@@ -1784,13 +1848,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition in Penrith and the Hawkesbury"
+    "featuredImageAlt": "Demolition in Penrith and the Hawkesbury",
+    "isHome": false
   },
   {
     "id": "pg-377",
@@ -1802,13 +1867,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Richmond"
+    "featuredImageAlt": "Demolition Richmond",
+    "isHome": false
   },
   {
     "id": "pg-378",
@@ -1820,13 +1886,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
+    "updatedAt": "2026-10-12T08:58:35.282Z",
     "updatedBy": "joshua",
     "featuredImage": "/uploads/demolition-excavator-grapple-house-demolition-sydney.webp",
-    "featuredImageAlt": "Demolition Rockdale"
+    "featuredImageAlt": "Demolition Rockdale",
+    "isHome": false
   },
   {
     "id": "pg-379",
@@ -1838,11 +1905,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-380",
@@ -1854,11 +1922,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-381",
@@ -1870,11 +1939,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-382",
@@ -1886,11 +1956,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-383",
@@ -1902,11 +1973,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-384",
@@ -1918,11 +1990,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-385",
@@ -1934,11 +2007,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:03:55.181Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-386",
@@ -1950,11 +2024,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-387",
@@ -1966,11 +2041,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-388",
@@ -1982,11 +2058,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-389",
@@ -1998,11 +2075,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-390",
@@ -2014,11 +2092,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-391",
@@ -2030,11 +2109,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-392",
@@ -2046,11 +2126,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-393",
@@ -2062,11 +2143,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-394",
@@ -2078,11 +2160,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-395",
@@ -2094,11 +2177,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-396",
@@ -2110,11 +2194,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-397",
@@ -2126,11 +2211,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-398",
@@ -2142,11 +2228,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-399",
@@ -2158,11 +2245,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-08T06:06:35.810Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:36:02.135Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-12T08:58:35.282Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-134",

@@ -1,5 +1,743 @@
 [
   {
+    "from": "/max-about",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/demolition-and-excavation-contractors-sydney-max-demolition-and-excavation-2",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/site-clearing-land-remediation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/excavation/bulk-excavation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/demolition",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/asbestos-services/asbestos-contaminated-soil-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/demolition-and-excavation-contractors-sydney-max-demolition-and-excavation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-wyong",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-woy-woy",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-wollongong",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-western-sydney",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-wentworthville",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-warners-bay",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-umina-beach",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-tuggerah",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-toongabbie",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-thirroul",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-the-entrance",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-terrigal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-sutherland-shire",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-strathfield",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-st-marys",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-st-helens-park",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-south-west-sydney",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-shellharbour",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-seven-hills",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-ryde",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-rouse-hill",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-rockdale",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-richmond",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-penrith-hawkesbury",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-penrith",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-parramatta",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-oran-park",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-north-shore",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-northern-beaches",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-newcastle-and-lake-macquarie",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-newcastle",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-narrabeen",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-mona-vale",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-merrylands",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-merewether",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-maroubra",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-manly-vale",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-manly",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-malabar",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-maitland",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-londonderry",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-liverpool",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-lindfield",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-lidcombe",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-leppington",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-kogarah",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-killara",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-kiama",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-kellyville",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-inner-west-ryde",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-illawarra",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-hurstville",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-hornsby",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-hills-district",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-guildford",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-greenacre",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-granville",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-gosford",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-gladesville",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-frenchs-forest",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-figtree",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-fairfield",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-erina",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-epping",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-eastern-suburbs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-dee-why",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-dapto",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-corrimal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-chipping-norton",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-chester-hill",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-chatswood",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-charlestown",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-central-coast",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-castle-hill",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-campbelltown",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-camden",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-burwood",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-brookvale",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-box-hill",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-blacktown",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-belmont",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-baulkham-hills",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-bankstown",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-avoca-beach",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-austral",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw/demolition-auburn",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations/nsw",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/locations",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/site-clearing-land-remediation/site-rehabilitation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/site-clearing-land-remediation/site-clearing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/site-clearing-land-remediation/land-remediation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/site-clearing-land-remediation/fill-supply-and-land-repair",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/haulage-waste/spoil-removal-and-cartage",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/haulage-waste/material-delivery",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/haulage-waste/demolition-waste-removal-and-recycling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/haulage-waste",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/excavation/site-cut-and-levelling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/excavation/rock-excavation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/excavation/pool-excavation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/excavation/detailed-excavation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/excavation/basement-excavation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/excavation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/demolition/service-station-demolition",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/demolition/residential-demolition",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/demolition/partial-demolition",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/demolition/multi-unit-apartment-demolition",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/demolition/hand-demolition",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/demolition/commercial-industrial-demolition",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/asbestos-services/friable-asbestos-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/asbestos-services/emergency-asbestos-clean-up",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/asbestos-services/bonded-asbestos-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/asbestos-services/asbestos-inspections-and-testing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/asbestos-services/asbestos-disposal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/asbestos-services/air-monitoring-and-clearance-certificates",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services/asbestos-services",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
+    "from": "/services",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-12T09:44:44.639Z"
+  },
+  {
     "from": "/about-us",
     "to": "/about",
     "code": 301,

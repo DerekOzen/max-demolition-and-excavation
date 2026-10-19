@@ -2173,5 +2173,21 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/asbestos-testing-before-you-buy-or-renov-dc25d516.jpg",
     "featuredImageAlt": "Inspector in gloves cutting a small sample from weathered fibro wall cladding on an older home and sealing it into a specimen jar"
+  },
+  {
+    "id": "pg-138",
+    "path": "/blogs",
+    "type": "post",
+    "title": "Demolition and Excavation Blog | Max Demolition and Excavation",
+    "seoTitle": "Demolition and Excavation Blog | Max Demolition and Excavation",
+    "seoDescription": "Demolition and excavation advice for Sydney builders, developers and homeowners. What moves a demolition price, what happens when you hit rock, and asbestos testing.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-19T04:08:25.670Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T04:08:25.670Z",
+    "updatedBy": "gabriel"
   }
 ]

@@ -2128,13 +2128,15 @@
     "seoTitle": "House Demolition Cost in Sydney: What Moves the Price",
     "seoDescription": "What drives the cost of demolishing a house in Sydney, from access and asbestos to spoil and approvals, explained by a licensed NSW demolisher. Call 0456 220 552.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": null,
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-10-19T03:32:49.057Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-19T03:32:49.057Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-19T03:36:08.805Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/house-demolition-cost-in-sydney-what-act-f08426e4.jpg",
+    "featuredImageAlt": "Excavator demolishing a brick and tile house on a suburban Sydney block with debris stacked across the slab"
   },
   {
     "id": "pg-135",

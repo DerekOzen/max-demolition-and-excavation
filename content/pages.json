@@ -2164,12 +2164,14 @@
     "seoTitle": "Asbestos Testing Before You Buy or Renovate: A Guide",
     "seoDescription": "Why asbestos testing comes before renovation or purchase: where fibro hides, how sampling works, and what a licensed removal and clearance involves.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": null,
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-10-19T03:32:49.057Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-19T03:32:49.057Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-19T03:43:21.217Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/asbestos-testing-before-you-buy-or-renov-dc25d516.jpg",
+    "featuredImageAlt": "Inspector in gloves cutting a small sample from weathered fibro wall cladding on an older home and sealing it into a specimen jar"
   }
 ]

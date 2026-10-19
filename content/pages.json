@@ -2204,10 +2204,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-19T04:31:28.436Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-19T04:31:28.436Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-19T04:35:17.875Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/max-demolition-logo-transparent-dd205738.png",
+    "featuredImageAlt": "Max Demolition & Excavation corporate logo featuring bold orange typography, an excavator graphic, and a city skyline silhouette on a black background.   "
   }
 ]

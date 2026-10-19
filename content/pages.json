@@ -2119,5 +2119,53 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-12T09:41:07.933Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-133",
+    "path": "/blog/house-demolition-cost-sydney",
+    "type": "post",
+    "title": "House Demolition Cost in Sydney: What Moves the Price",
+    "seoTitle": "House Demolition Cost in Sydney: What Moves the Price",
+    "seoDescription": "What drives the cost of demolishing a house in Sydney, from access and asbestos to spoil and approvals, explained by a licensed NSW demolisher. Call 0456 220 552.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-19T03:32:49.057Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T03:32:49.057Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-135",
+    "path": "/blog/sandstone-excavation-northern-beaches",
+    "type": "post",
+    "title": "Sandstone Excavation on the Northern Beaches Explained",
+    "seoTitle": "Sandstone Excavation on the Northern Beaches Explained",
+    "seoDescription": "Hit sandstone a metre down on the Northern Beaches? How rock changes plant, programme, vibration and neighbour management on a Sydney excavation.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-19T03:32:49.057Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T03:32:49.057Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-137",
+    "path": "/blog/asbestos-testing-before-renovation",
+    "type": "post",
+    "title": "Asbestos Testing Before You Buy or Renovate: A Guide",
+    "seoTitle": "Asbestos Testing Before You Buy or Renovate: A Guide",
+    "seoDescription": "Why asbestos testing comes before renovation or purchase: where fibro hides, how sampling works, and what a licensed removal and clearance involves.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-19T03:32:49.057Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T03:32:49.057Z",
+    "updatedBy": "gabriel"
   }
 ]

@@ -2220,12 +2220,14 @@
     "seoTitle": "What Is Friable Asbestos and Why It Is Treated Differently",
     "seoDescription": "Wondering what is friable asbestos? Learn what friable means, how it differs from bonded asbestos, and why NSW rules require Class A licensed removal.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": null,
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T04:29:00.707Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-11-06T04:29:00.707Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-11-06T04:47:49.052Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/what-is-friable-asbestos-and-why-it-is-t-410e1deb.jpg",
+    "featuredImageAlt": "Deteriorated asbestos pipe lagging exposed in a ceiling cavity of an older Sydney building"
   }
 ]

@@ -2247,5 +2247,21 @@
     "updatedAt": "2026-11-06T05:09:18.358Z",
     "updatedBy": "gabriel",
     "isHome": false
+  },
+  {
+    "id": "pg-264",
+    "path": "/resources",
+    "type": "page",
+    "title": "Demolition and Excavation Resources | Max Demolition and Excavation",
+    "seoTitle": "Demolition and Excavation Resources | Max Demolition and Excavation",
+    "seoDescription": "Articles and explainers on demolition cost, rock excavation and asbestos testing, plus clearance certificates, spoil classification and comparing quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-06T05:10:20.513Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-06T05:10:20.513Z",
+    "updatedBy": "gabriel"
   }
 ]

@@ -2230,5 +2230,21 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/what-is-friable-asbestos-and-why-it-is-t-410e1deb.jpg",
     "featuredImageAlt": "Deteriorated asbestos pipe lagging exposed in a ceiling cavity of an older Sydney building"
+  },
+  {
+    "id": "pg-263",
+    "path": "/resources",
+    "type": "page",
+    "title": "Max Resources Articles Section",
+    "seoTitle": "Max Resources Articles Section",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-06T05:01:07.816Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-06T05:01:07.816Z",
+    "updatedBy": "gabriel"
   }
 ]

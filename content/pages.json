@@ -2175,5 +2175,53 @@
     "updatedBy": "joshua",
     "featuredImage": "/uploads/max-demolition-logo-transparent-dd205738.png",
     "featuredImageAlt": "Max Demolition & Excavation corporate logo featuring bold orange typography, an excavator graphic, and a city skyline silhouette on a black background.   "
+  },
+  {
+    "id": "pg-138",
+    "path": "/blog/what-is-a-site-cut",
+    "type": "post",
+    "title": "What Is a Site Cut and When a Sloping Block Needs One",
+    "seoTitle": "What Is a Site Cut and When a Sloping Block Needs One",
+    "seoDescription": "What is a site cut? Learn how cut and fill, grading and compaction create a level building platform, and why slope and Sydney rock change the method.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-06T04:29:00.707Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-06T04:29:00.707Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-140",
+    "path": "/blog/how-long-does-it-take-to-demolish-a-house",
+    "type": "post",
+    "title": "How Long Does It Take to Demolish a House in Sydney",
+    "seoTitle": "How Long Does It Take to Demolish a House in Sydney",
+    "seoDescription": "How long does it take to demolish a house in Sydney? The machine work is the short part. Here is what approvals, services and asbestos add to the timeline.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-06T04:29:00.707Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-06T04:29:00.707Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-141",
+    "path": "/blog/what-is-friable-asbestos",
+    "type": "post",
+    "title": "What Is Friable Asbestos and Why It Is Treated Differently",
+    "seoTitle": "What Is Friable Asbestos and Why It Is Treated Differently",
+    "seoDescription": "Wondering what is friable asbestos? Learn what friable means, how it differs from bonded asbestos, and why NSW rules require Class A licensed removal.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-06T04:29:00.707Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-06T04:29:00.707Z",
+    "updatedBy": "gabriel"
   }
 ]

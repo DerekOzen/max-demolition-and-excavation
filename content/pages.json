@@ -102,23 +102,6 @@
     "updatedBy": "joshua"
   },
   {
-    "id": "pg-277",
-    "path": "/resources",
-    "type": "page",
-    "title": "Demolition and Excavation Resources | Max Demolition and Excavation",
-    "seoTitle": "Demolition and Excavation Resources | Max Demolition and Excavation",
-    "seoDescription": "Clearance certificates, spoil classification, service disconnections, bonded versus friable asbestos, and how to compare demolition quotes that are not comparable.",
-    "layout": "mockup",
-    "headerPartId": "header-2",
-    "footerPartId": "footer-2",
-    "status": "deleted",
-    "createdAt": "2026-10-08T04:35:40.007Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-10-19T04:31:12.989Z",
-    "updatedBy": "gabriel",
-    "isHome": false
-  },
-  {
     "id": "pg-278",
     "path": "/terms-and-conditions",
     "type": "page",
@@ -2174,25 +2157,6 @@
     "updatedBy": "joshua",
     "featuredImage": "/uploads/asbestos-testing-before-you-buy-or-renov-dc25d516.jpg",
     "featuredImageAlt": "Inspector in gloves cutting a small sample from weathered fibro wall cladding on an older home and sealing it into a specimen jar"
-  },
-  {
-    "id": "pg-138",
-    "path": "/blogs",
-    "type": "post",
-    "title": "Demolition and Excavation Blog | Max Demolition and Excavation",
-    "seoTitle": "Demolition and Excavation Blog | Max Demolition and Excavation",
-    "seoDescription": "Demolition and excavation advice for Sydney builders, developers and homeowners. What moves a demolition price, what happens when you hit rock, and asbestos testing.",
-    "layout": "mockup",
-    "headerPartId": "header-2",
-    "footerPartId": "footer-2",
-    "status": "deleted",
-    "createdAt": "2026-10-19T04:08:25.670Z",
-    "createdBy": "gabriel",
-    "updatedAt": "2026-10-19T04:23:08.039Z",
-    "updatedBy": "gabriel",
-    "featuredImage": "/uploads/max-demolition-logo-transparent-dd205738.png",
-    "featuredImageAlt": "Max Demolition & Excavation corporate logo featuring bold orange typography, an excavator graphic, and a city skyline silhouette on a black background.   ",
-    "isHome": false
   },
   {
     "id": "pg-139",

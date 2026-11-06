@@ -2202,13 +2202,15 @@
     "seoTitle": "How Long Does It Take to Demolish a House in Sydney",
     "seoDescription": "How long does it take to demolish a house in Sydney? The machine work is the short part. Here is what approvals, services and asbestos add to the timeline.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": null,
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T04:29:00.707Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-11-06T04:29:00.707Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-11-06T04:45:51.287Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/how-long-does-it-take-to-demolish-a-hous-d2adc1c8.jpg",
+    "featuredImageAlt": "Excavator bringing down a single storey Sydney house while a tipper waits in the driveway to load debris"
   },
   {
     "id": "pg-141",

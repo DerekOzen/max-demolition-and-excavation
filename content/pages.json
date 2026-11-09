@@ -2159,25 +2159,6 @@
     "featuredImageAlt": "Inspector in gloves cutting a small sample from weathered fibro wall cladding on an older home and sealing it into a specimen jar"
   },
   {
-    "id": "pg-139",
-    "path": "/resources",
-    "type": "page",
-    "title": "Demolition and Excavation Resources | Max Demolition and Excavation",
-    "seoTitle": "Demolition and Excavation Resources | Max Demolition and Excavation",
-    "seoDescription": "Articles and explainers on demolition cost, rock excavation and asbestos testing, plus clearance certificates, spoil classification and comparing quotes.",
-    "layout": "mockup",
-    "headerPartId": "header-4",
-    "footerPartId": "footer-2",
-    "status": "deleted",
-    "createdAt": "2026-10-19T04:31:28.436Z",
-    "createdBy": "gabriel",
-    "updatedAt": "2026-11-06T04:59:58.131Z",
-    "updatedBy": "gabriel",
-    "featuredImage": "/uploads/max-demolition-logo-transparent-dd205738.png",
-    "featuredImageAlt": "Max Demolition & Excavation corporate logo featuring bold orange typography, an excavator graphic, and a city skyline silhouette on a black background.   ",
-    "isHome": false
-  },
-  {
     "id": "pg-138",
     "path": "/blog/what-is-a-site-cut",
     "type": "post",
@@ -2230,23 +2211,6 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/what-is-friable-asbestos-and-why-it-is-t-410e1deb.jpg",
     "featuredImageAlt": "Deteriorated asbestos pipe lagging exposed in a ceiling cavity of an older Sydney building"
-  },
-  {
-    "id": "pg-263",
-    "path": "/resources",
-    "type": "page",
-    "title": "Max Resources Articles Section",
-    "seoTitle": "Max Resources Articles Section",
-    "seoDescription": "",
-    "layout": "mockup",
-    "headerPartId": "header-3",
-    "footerPartId": "footer-2",
-    "status": "deleted",
-    "createdAt": "2026-11-06T05:01:07.816Z",
-    "createdBy": "gabriel",
-    "updatedAt": "2026-11-06T05:09:18.358Z",
-    "updatedBy": "gabriel",
-    "isHome": false
   },
   {
     "id": "pg-264",
